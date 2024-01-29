@@ -49,5 +49,3 @@ I am a Software Tester and  Developer <img src="https://media.giphy.com/media/WU
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
